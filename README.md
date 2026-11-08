@@ -1,2 +1,2 @@
-# ocelot-web-engine
-An independent browser engine. APGL-3.0.
+# Ocelot Web Engine
+### An independent browser engine.
